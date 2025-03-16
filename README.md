@@ -29,7 +29,7 @@ Beyond car rentals, we offer a suite of online services designed to streamline y
 ## 📩 **Get in Touch**  
 Interested in renting our Porsche Boxster or exploring our online services? Contact us today!  
 
-📧 **Email:** info@serenestudiosllc.com  
+📧 **Email:** serenestudiosllc@gmail.com  
 📍 **Location:** San Francisco, CA  
 
 Follow our journey as we expand our fleet and services! 🚀  
