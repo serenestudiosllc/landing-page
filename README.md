@@ -1,5 +1,6 @@
 # Serene Studios LLC  
 **Drive with Ease. Innovate Online.**  
+Contact email: info [at] serenestudiosllc <dot> com
 
 Welcome to **Serene Studios LLC**, where we build great apps and manage some side projects.
 
@@ -34,3 +35,7 @@ Interested in renting our Porsche Boxster or exploring our online services? Cont
 📍 **Location:** San Francisco, CA  
 
 Follow our journey as we expand our fleet and services! 🚀  
+
+
+## Privacy Policy
+Your stuff, your data. Serene Studios never collects or uses your personal data.
